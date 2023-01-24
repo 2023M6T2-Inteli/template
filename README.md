@@ -23,3 +23,8 @@ Abaixo encontra-se a árvore de pastas do projeto:
     └── frontend
         └── README.md
 ```
+
+Os principais diretórios do projeto são: 
+- A pasta [doc](./doc), onde encontram-se os documentos de entrega do projeto. Aqui devem ficar o manual do usuário e o relatório de projeto. 
+- A pasta [img](./img) serve para inserir fotos e vídeos do protótipo, assim como do seu processo de construção.
+- A pasta [src](./src) abriga todos os arquivos de desenvolvimento do projeto. Aqui deve ficar o código-fonte do projeto, assim como o projeto dos circuitos eletrônicos embarcados em cada módulo.
