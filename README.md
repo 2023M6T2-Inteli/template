@@ -6,16 +6,20 @@ Neste repositório encontram-se os documentos de entrega do projeto realizado du
 
 Abaixo encontra-se a árvore de pastas do projeto:
 
-```
+``` bash
 ├── README.md
 ├── doc
+│   ├── README.md
+│   ├── manual.pdf
+│   └── relatorio.pdf
 ├── img
+│   └── README.md
 └── src
+    ├── README.md
     ├── backend
-    ├── eletronica
+    │   └── README.md
+    ├── embedded
+    │   └── README.md
     └── frontend
+        └── README.md
 ```
-
-
-
-
