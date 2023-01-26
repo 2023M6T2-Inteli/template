@@ -30,6 +30,6 @@ Abaixo encontra-se a árvore de pastas do repositório:
 ```
 
 Os principais diretórios do repositório são: 
-- A pasta [doc](./doc), onde encontram-se os documentos de entrega do projeto. Aqui devem ficar o manual do usuário e o relatório de projeto.
-- A pasta [img](./img) serve para inserir fotos e vídeos do protótipo, assim como do seu processo de construção.
+- A pasta [docs](./docs), onde encontram-se os documentos de entrega do projeto. Aqui devem ficar o manual do usuário e o relatório de projeto.
+- A pasta [media](./media) serve para inserir fotos e vídeos do protótipo, assim como do seu processo de construção.
 - A pasta [src](./src) abriga todos os arquivos de desenvolvimento do projeto. Aqui deve ficar o código-fonte do projeto, assim como o projeto dos circuitos eletrônicos embarcados em cada módulo.
