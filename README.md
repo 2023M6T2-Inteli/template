@@ -12,6 +12,11 @@ Abaixo encontra-se a árvore de pastas do repositório:
 ``` bash
 ├── README.md
 ├── docs
+│   ├── README.md
+│   └── img
+│       ├── manual
+│       ├── relatorio
+│       └── tutoriais
 ├── media
 │   └── README.md
 └── src
