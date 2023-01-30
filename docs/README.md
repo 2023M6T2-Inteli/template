@@ -4,7 +4,7 @@
 
 # Organização do Diretório de Documentação
 
-Este diretório é destinado para as documentações que serão elaboradas ao longo do projeto. Manuais de utilização, documentação de testes e relatórios de entrega, devem ser escritos em arquivos ***markdown*** separados e organizados em subdiretórios dentro deste diretório.
+Este diretório é destinado para armazenar a documentação elaborada ao longo do projeto. Manuais de utilização, documentação de testes e relatórios de entrega. O relatório será gerado automaticamente e poderá ser acessado através do [link](https://2023m5t2-inteli.github.io/template) para o github pages.
 
 As imagens utilizadas exclusivamente para documentação devem ser colocadas no subdiretório [`docs/images`](../img/). Já imagens do funcionamento do protótipo devem ser colocadas no diretório `media`.
 
