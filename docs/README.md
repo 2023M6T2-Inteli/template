@@ -4,9 +4,9 @@
 
 # Organização do Diretório de Documentação
 
-Este diretório é destinado para armazenar a documentação elaborada ao longo do projeto. Manuais de utilização, documentação de testes e relatórios de entrega. O relatório será gerado automaticamente e poderá ser acessado através do [link](https://2023m5t2-inteli.github.io/template/) para o github pages.
+Este diretório é destinado para armazenar a documentação elaborada ao longo do projeto. Aqui é possível encontrar o manual do usuário e o relatório do projeto. O relatório do projeto é gerado automaticamente utilizando o github pages com a tecnologia Jekyll. Para alterar os itens do relatório, basta modificar o arquivo `index.md` que encontra-se nesta pasta. Para acessar o relatório renderizado, basta acessar este [link](https://2023m5t2-inteli.github.io/template/). O manual do usuário deve ser adicionado a este diretório em formato `pdf`. Um exemplo gerado a partir do template pode ser visto em [manual do usuário](./manual.pdf). Para preencher o template com as informações relevantes, pode-se utilizar o [template](https://docs.google.com/document/d/1T-aFgkjL8GCZezKXb_WwTssjBSDe6IRo/edit?usp=sharing&ouid=102274946133413462419&rtpof=true&sd=true) disponível no google docs. Basta criar uma cópia do template e utilizá-lo para adicionar as informações relevantes ao projeto.
 
-As imagens utilizadas exclusivamente para documentação devem ser colocadas no subdiretório [`docs/images`](../img/). Já imagens do funcionamento do protótipo devem ser colocadas no diretório `media`.
+As imagens utilizadas exclusivamente para documentação devem ser armazenadas no subdiretório [`docs/images`](../img/). Já imagens do funcionamento do protótipo devem ser colocadas no diretório [`media`](../media).
 
 ## Tutoriais
 
