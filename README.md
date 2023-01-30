@@ -17,13 +17,18 @@ O propósito deste repositório é proporcionar espaço de armazenamento e ferra
 Abaixo encontra-se a árvore de pastas do repositório:
 
 ``` bash
+.
+├── LICENSE
 ├── README.md
 ├── docs
 │   ├── README.md
-│   └── img
-│       ├── manual
-│       ├── relatorio
-│       └── tutoriais
+│   ├── _config.yml
+│   ├── img
+│   │   ├── manual
+│   │   ├── relatorio
+│   │   └── tutoriais
+│   ├── index.md
+│   └── manual.pdf
 ├── media
 │   └── README.md
 └── src
