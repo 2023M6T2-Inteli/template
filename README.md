@@ -24,11 +24,11 @@ Abaixo encontra-se a árvore de pastas do repositório:
 │   ├── README.md
 │   ├── _config.yml
 │   ├── img
-│   │   ├── manual
 │   │   ├── relatorio
 │   │   └── tutoriais
-│   ├── index.md
-│   └── manual.pdf
+|   ├── infografico
+│   │   └── infografico.pdf
+│   └── index.md
 ├── media
 │   └── README.md
 └── src
@@ -42,6 +42,6 @@ Abaixo encontra-se a árvore de pastas do repositório:
 ```
 
 Os principais diretórios do repositório são: 
-- A pasta [docs](./docs), onde encontram-se os documentos de entrega do projeto. Aqui devem ficar o manual do usuário e o relatório de projeto.
+- A pasta [docs](./docs), onde encontram-se os documentos de entrega do projeto. Aqui devem ficar o infográfico do usuário e o relatório de projeto.
 - A pasta [media](./media) serve para inserir fotos e vídeos do protótipo, assim como do seu processo de construção.
 - A pasta [src](./src) abriga todos os arquivos de desenvolvimento do projeto. Aqui deve ficar o código-fonte do projeto, assim como o projeto dos circuitos eletrônicos embarcados em cada módulo.
